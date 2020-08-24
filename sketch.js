@@ -4,8 +4,8 @@ var database;
 var foodS;
 var foodStock;
 //var milk;
-//var feedDog;
-//var addFoods;
+var feedDog;
+var addFoods;
 var fedTime, lastFed;
 var foodObj;
 
